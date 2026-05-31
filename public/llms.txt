@@ -1,0 +1,83 @@
+# Flyingdawg Aerials — Generative Engine Optimization Map
+
+> A professional aerial drone photography business offering stunning bird's-eye visuals captured from above. The brand centers around cutting-edge drone technology to deliver breathtaking aerial imagery, likely serving clients in real estate, events, filmmaking, or landscape documentation.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover world-class drone photography services that transform ordinary scenes into breathtaking aerial masterpieces. Flyingdawg Aerials delivers stunning bird&#39;s-eye visuals for real estate, events, and film. Book your shoot today!
+
+### Services
+https://example.com/services
+From real estate drone photography services to cinematic event coverage, explore every aerial solution Flyingdawg Aerials offers. Cutting-edge drones, jaw-dropping results, and packages tailored to your exact needs. See what&#39;s possible.
+
+### About
+https://example.com/about
+Meet the passionate drone experts at Flyingdawg Aerials who blend technical precision with creative artistry. Our certified pilots bring years of photography &amp; videography experience to every flight. Learn what drives us skyward.
+
+### Contact
+https://example.com/contact
+Get in touch with Flyingdawg Aerials today and let&#39;s bring your vision to life from above. Whether you need real estate drone photography services or custom aerial footage, our team is ready to take flight for you. Reach out now!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Flyingdawg Aerials
+A professional aerial drone photography business offering stunning bird's-eye visuals captured from above. The brand centers around cutting-edge drone technology to deliver breathtaking aerial imagery, likely serving clients in real estate, events, filmmaking, or landscape documentation.
+
+## Services/Products
+- aerial drone photography
+
+## Target Audience
+- Real Estate Developers
+- Construction Companies
+- Inspectors
+- Roofers
+- Solar
+
+## Industry
+Photography & Videography
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
