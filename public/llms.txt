@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: dawghousestudiosoh@gmail.com
+- Phone: 14193787020
+- Phone (tel): tel:14193787020
+- Address: 13541 union hill rd, Bowling Green, OH, 43402, United States
 
 ### Contact form
 - URL: https://example.com/contact
